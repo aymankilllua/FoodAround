@@ -1,7 +1,7 @@
 {
-  "homepage":"https://aymankillua.github.io/Food-Around", 
-  "name": "Food-Around",
-  "version": "0.1.0",
+  "homepage":"https://aymankillua.github.io/FoodAround", 
+  "name": "FoodAround",
+  "version": "0.1git.0",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
